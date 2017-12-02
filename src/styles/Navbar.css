@@ -1,0 +1,12 @@
+.navbar-logo {
+    width: 50px;
+    height: auto;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.navbar-listitem {
+    font-family: sans-serif;
+    font-size: 1.1em;
+    color: #212121;
+}
